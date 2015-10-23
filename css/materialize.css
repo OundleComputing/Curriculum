@@ -757,7 +757,7 @@
   background-color: #4db6ac !important; }
 
 .teal-text.text-lighten-2 {
-  color: #4db6ac !important; }
+  color: ##003366 !important; }
 
 .teal.lighten-1 {
   background-color: #26a69a !important; }
@@ -1738,7 +1738,8 @@ dfn {
  */
 h1 {
   font-size: 2em;
-  margin: 0.67em 0; }
+  margin: 0.67em 0;
+  }
 
 /**
  * Address styling not present in IE 8/9.
